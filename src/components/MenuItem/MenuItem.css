@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap");
+
+.menu {
+  padding: 50px;
+}
+
+.menu-item {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.menu-item__title {
+  font-family: "Raleway";
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.menu-item__description {
+  font-family: "Raleway";
+  font-weight: 400;
+}

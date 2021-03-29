@@ -26,14 +26,10 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      <div
-        style={{
-          margin: `0 auto`,
-          maxWidth: 960,
-          padding: `0 1.0875rem 1.45rem`,
-        }}
-      >
-        <Logo />
+      <div className="layout">
+        <div className="logo-container">
+          <Logo />
+        </div>
         <main>{children}</main>
       </div>
     </>

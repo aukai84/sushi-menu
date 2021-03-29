@@ -9,12 +9,7 @@ const Logo = () => (
     style={{
       width: "210px",
       height: "202.071px",
-      position: "absolute",
-      top: "50%",
-      left: "50%",
-      transform: "translate(-50%, -50%) scale(0.979856)",
-      zIndex: "0",
-      cursor: "pointer",
+      zIndex: "1",
     }}
   >
     <defs id="SvgjsDefs1001"></defs>
