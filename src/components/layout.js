@@ -10,6 +10,7 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
+import Navigation from "./navigation"
 import Logo from "./logo"
 import "./layout.css"
 
@@ -29,6 +30,7 @@ const Layout = ({ children }) => {
       <div className="layout">
         <div className="logo-container">
           <Logo />
+          <Navigation />
         </div>
         <main>{children}</main>
       </div>

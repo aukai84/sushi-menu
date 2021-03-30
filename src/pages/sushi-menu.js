@@ -4,10 +4,10 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import MenuItem from "../components/MenuItem"
 
-const Menu = () => {
+const SushiMenu = () => {
   return (
     <Layout>
-      <SEO title="menu" />
+      <SEO title="sushi-menu" />
       <div className="menu">
         <MenuItem
           title={"Hamachi Nigiri"}
@@ -26,4 +26,4 @@ const Menu = () => {
   )
 }
 
-export default Menu
+export default SushiMenu
