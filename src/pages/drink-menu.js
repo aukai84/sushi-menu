@@ -9,7 +9,7 @@ const DrinkMenu = () => {
     <Layout>
       <SEO title="drink-menu" />
       <div className="menu">
-        <h1 className="menu__title">Signature Cock-Tails</h1>
+        <h1 className="menu__title">Signature Cocktails</h1>
         <MenuItem
           title="Love Language"
           description="Vodka, Lavender syrup Lemon juice, Elderflower syrup, & Ginger Beer"
