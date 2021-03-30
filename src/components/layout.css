@@ -622,3 +622,14 @@ pre tt:after {
   color: #000;
   margin: 0 15px;
 }
+
+.drink-menu {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.drink-menu__title {
+  font-family: "Raleway";
+  margin: 50px 0;
+}
