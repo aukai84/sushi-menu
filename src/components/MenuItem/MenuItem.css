@@ -1,10 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap");
 
-.menu {
-  padding: 50px;
-  text-align: center;
-}
-
 .menu-item {
   display: flex;
   flex-direction: column;

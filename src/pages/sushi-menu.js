@@ -9,6 +9,7 @@ const SushiMenu = () => {
     <Layout>
       <SEO title="sushi-menu" />
       <div className="menu">
+        <h1 className="menu__title">Sushi</h1>
         <MenuItem
           title={"Hamachi Nigiri"}
           description="Fresh cut Hamachi nigiri sushi.  Lightly brushed with Shoyu with a touch of Wasabi"
