@@ -633,3 +633,9 @@ pre tt:after {
   font-family: "Raleway";
   margin: 50px 0;
 }
+
+.home_title {
+  font-family: "Raleway";
+  margin: auto;
+  text-align: center;
+}
