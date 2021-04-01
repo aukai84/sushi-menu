@@ -30,6 +30,23 @@ const SushiMenu = () => {
           title={"Hayami Wagyu Taco"}
           description="Aomori wagyu cooked and served with tamanegi, topped with cilantro onion in our crispy taco shells."
         />
+        <MenuItem
+          title={"Shibuya Salmon Special"}
+          description="Fresh cut Atlantic salmon nigiri with our house made torched garlic aioli, and garnished with scallions and himeji tobiko 
+"
+        />
+        <MenuItem
+          title={"Wagyu nigiri"}
+          description="Thinly sliced Aomori wagyu nigiri torched and served with our tamanegi ponzu sauce. Topped with scallions and Himeji Tobiko"
+        />
+        <MenuItem
+          title={"Hayami Salmon Taco"}
+          description="Raw cubed Atlantic salmon and avocado in a spicy gochujang sauce. Topped with scallion and Himeji Tobiko "
+        />
+        <MenuItem
+          title={"The Stryklybzness Bomb"}
+          description="Spicy salmon maki sushi. Topped with Takuan, scallions, Tobiko, and unagi sauce"
+        />
       </div>
     </Layout>
   )
