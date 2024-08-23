@@ -32,7 +32,6 @@ const Layout = ({ children }) => {
           <Link to="/">
             <Logo />
           </Link>
-          <Navigation />
         </div>
         <main>{children}</main>
       </div>
