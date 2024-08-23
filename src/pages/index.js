@@ -22,32 +22,43 @@ const IndexPage = () => (
         />
         <MenuItem
           title={"Korean Style Dumplings (Mandu)"}
-          description="Chicken or Pork mixed with vegetables, set in a traditional dumpling wrapper"
+          description="Chicken or Pork mixed with vegetables, set in a traditional won ton wrapper. Served with our dumpling sauce"
         />
       </div>
       <div>
         <h1 className="menu__title">Main Courses</h1>
         <MenuItem
           title={"Jalapeno Hamachi"}
-          description=" Thinly sliced hamachi set in garlic yuzu soy topped with jalapeño, garlic chips, and a little bit of cilantro in for added texture"
+          description=" Thinly sliced hamachi set in garlic yuzu soy topped with thinly sliced jalapeño, garlic chips, and a little bit of cilantro in for added texture"
         />
         <MenuItem
           title={"Shibuya Salmon Special"}
           description="Fresh cut Atlantic salmon nigiri with our house made torched garlic aioli, and garnished with scallions, onion, and himeji tobiko 
 "
         />
-        <MenuItem title={"Agedashi Tofu"} description="" />
         <MenuItem
-          title={"Wagyu nigiri"}
-          description="Thinly sliced Aomori wagyu nigiri torched and served with our tamanegi ponzu sauce. Topped with scallions and Himeji Tobiko"
+          title={"Agedashi Tofu"}
+          description="Lightly fried tofu set in a soy dashi sauce (tsuyu), topped with green onion, shaved daikon, shaved ginger, and bonito flakes"
         />
         <MenuItem
-          title={"Hayami Salmon Taco"}
-          description="Raw cubed Atlantic salmon and avocado in a spicy gochujang sauce. Topped with scallion and Himeji Tobiko "
+          title={"Spicy Poke Crispy Rice"}
+          description="Crispy sushi rice, topped with fresh avocado, our homemade spicy poke, thinly sliced jalapeño, and drizzled with unagi sauce"
         />
         <MenuItem
-          title={"The Stryklybzness Bomb"}
-          description="Spicy salmon maki sushi. Topped with Takuan, scallions, Tobiko, and unagi sauce"
+          title={"Osaka Sashimi Salad"}
+          description="Freshly sliced sashimi over a bed of mixed greens and sprouts topped with olive oil, balsamic, crispy capers, and lemon zest"
+        />
+        <MenuItem
+          title={"Poke Tacos"}
+          description="Our homemade poke mixed in a spicy gochujang sauce, topped with green onion and tobiko"
+        />
+        <MenuItem
+          title={"Miso Chilean Sea Bass"}
+          description="Chilean Sea Bass marinated with miso, soy, and mirin. Broiled and topped with green onion and crispy won ton strips"
+        />
+        <MenuItem
+          title={"Ribeye Kalbi"}
+          description="Ribeye marinated with our homemade kalbi recipe. Seared and thinly sliced. Topped with garlic chips and green onion. Served with a daikon ponzu sauce"
         />
       </div>
     </div>
